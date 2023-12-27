@@ -12,5 +12,8 @@ Lift is the strength of the relationship of the 2 products.
 
 The dashboard is interactive and allows the user to select a product and compare relationships of that product with other products. 
 
+### PLEASE NOTE
+Please download the dashboard and open it on your powerbi application. You cannot view it on GitHub. I did attach a screenshot if you are only curious as to how it looks.
+
 ### Credits
 Followed a video from BI with Gupreet. 
